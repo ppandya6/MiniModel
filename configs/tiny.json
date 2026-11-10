@@ -1,0 +1,12 @@
+{
+  "data": "data/tiny.txt",
+  "output": "runs/tiny",
+  "context": 32,
+  "width": 32,
+  "heads": 4,
+  "layers": 2,
+  "batch_size": 8,
+  "steps": 100,
+  "eval_interval": 25,
+  "eval_batches": 5
+}

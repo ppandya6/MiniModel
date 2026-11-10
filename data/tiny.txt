@@ -1,0 +1,12 @@
+The little machine watched the rain fall on the garden. Each drop made a circle, and each circle became a story.
+A scientist opened a notebook and asked a simple question. Could a small machine learn the patterns of a language?
+The first experiment began with letters. Letters formed words, and words formed sentences. The machine guessed the next letter.
+Some guesses were right. Some guesses were wrong. With every mistake, the scientist adjusted the weights and tried again.
+In the morning the garden was quiet. A bird sang near the window while the machine learned another line of text.
+The scientist compared two models. One was narrow and quick. The other was wide and slow. Both had something to teach.
+Attention helped the machine remember earlier letters. Position helped it distinguish the beginning from the end.
+A notebook held the results of every experiment. The scientist measured the loss on text the machine had never studied.
+Learning was not the same as remembering. A model could repeat a story and still fail to understand a new sentence.
+The small machine made a new story about a bird in a rainy garden. It was imperfect, but its patterns were becoming clear.
+A fair experiment changes one thing at a time. A careful scientist records the seed, the data, and the time spent learning.
+The garden grew through sunshine and rain. The model improved through examples and mistakes. Neither grew in a single day.
